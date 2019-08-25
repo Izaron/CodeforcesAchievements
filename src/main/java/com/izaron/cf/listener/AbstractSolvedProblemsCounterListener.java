@@ -28,10 +28,6 @@ public abstract class AbstractSolvedProblemsCounterListener extends AbstractCont
                 .build();
 
         ContestStandings standings = apiMethods.getContestStandings(params);
-        if (standings == null) {
-            // Do nothing in case of erroneously server behaviour
-            return;
-        }
 
         for (RanklistRow row : standings.getRows()) {
             List<ProblemResult> problemResults = row.getProblemResults();

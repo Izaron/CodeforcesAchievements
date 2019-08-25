@@ -39,13 +39,8 @@ public class ApiConsumerMongoService implements ApiConsumer {
 
     @Override
     public String sendQuery(String method, MultiValueMap<String, String> params) {
-        // HACK
-//        if (method.equals("contest.status")) {
-//            apiQueryRepository.deleteByMethodNameAndParams(method, params);
-//        }
-        // HACK
         List<ApiQuery> prevQuery = apiQueryRepository.findByMethodNameAndParams(method, params);
-        if (Objects.isNull(prevQuery) || prevQuery.isEmpty()) {
+        if (prevQuery.isEmpty()) {
             String result;
 
             if (method.equals("contest.status")) {

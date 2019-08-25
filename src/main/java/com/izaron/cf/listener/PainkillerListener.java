@@ -35,9 +35,6 @@ public class PainkillerListener extends AbstractContestListener {
                 .build();
 
         ContestStandings standings = apiMethods.getContestStandings(params);
-        if (standings == null) {
-            return;
-        }
 
         // Find the maximal point value for a problem
         List<Problem> problems = standings.getProblems();
@@ -94,8 +91,7 @@ public class PainkillerListener extends AbstractContestListener {
 
         // Assuring that the rating changed
         List<RatingChange> ratingChanges = apiMethods.getContestRatingChanges(contestId);
-        if (ratingChanges == null ||
-                ratingChanges.stream().noneMatch(change -> change.getHandle().equals(handle))) {
+        if (ratingChanges.stream().noneMatch(change -> change.getHandle().equals(handle))) {
             return;
         }
 

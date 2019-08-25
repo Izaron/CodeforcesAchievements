@@ -38,9 +38,6 @@ public class HeroOfTheDayListener extends AbstractContestListener {
                 .build();
 
         ContestStandings standings = apiMethods.getContestStandings(params);
-        if (standings == null) {
-            return;
-        }
 
         for (RanklistRow row : standings.getRows()) {
             List<Member> members = row.getParty().getMembers();

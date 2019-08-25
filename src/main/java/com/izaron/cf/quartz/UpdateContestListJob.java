@@ -13,7 +13,6 @@ import org.springframework.context.ApplicationEventPublisher;
 
 import java.util.Comparator;
 import java.util.List;
-import java.util.Objects;
 import java.util.stream.Collectors;
 
 @Log4j2
@@ -29,7 +28,7 @@ public class UpdateContestListJob implements Job {
     @Override
     public void execute(JobExecutionContext jobExecutionContext) throws JobExecutionException {
         List<Contest> contests = apiMethods.getContestList();
-        if (Objects.isNull(contests)) {
+        if (contests.isEmpty()) {
             return;
         }
 

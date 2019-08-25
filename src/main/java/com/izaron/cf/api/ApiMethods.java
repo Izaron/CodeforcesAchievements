@@ -15,6 +15,7 @@ import org.springframework.util.MultiValueMap;
 
 import java.io.IOException;
 import java.util.ArrayList;
+import java.util.Collections;
 import java.util.List;
 import java.util.Map;
 import java.util.stream.Collectors;
@@ -68,28 +69,7 @@ public class ApiMethods {
     }
 
     public List<Submission> getContestStatus(ContestStatusParams params) {
-//        if (Objects.nonNull(params.getFrom()) && Objects.nonNull(params.getCount())) {
-            return parseList("contest.status", pojoParam(params), Submission.class);
-//        } else {
-//            List<Submission> result = new ArrayList<>();
-//            params.setCount((long) contestStatusCount);
-//            long from = 1;
-//            while (true) {
-//                params.setFrom(from);
-//                List<Submission> subResult = getContestStatus(params);
-//
-//                if (Objects.isNull(subResult) || subResult.isEmpty()) {
-//                    break;
-//                }
-//
-//                subResult.stream().filter(submission -> {
-//                    return submission.getAuthor().getParticipantType() == Party.ParticipantType.CONTESTANT;
-//                }).forEach(result::add);
-//
-//                from += contestStatusCount;
-//            }
-//            return result;
-//        }
+        return parseList("contest.status", pojoParam(params), Submission.class);
     }
 
     public ProblemsetProblems getProblemsetProblems(ProblemsetProblemsParams params) {
@@ -146,7 +126,7 @@ public class ApiMethods {
         try {
             JsonNode node = jacksonMapper.readTree(call);
             if (!node.has("result")) {
-                return null;
+                return Collections.emptyList();
             }
             node = node.get("result");
             if (node.isTextual()) {
@@ -161,7 +141,7 @@ public class ApiMethods {
             }
             return list;
         } catch (IOException | NullPointerException e) {
-            return null;
+            return Collections.emptyList();
         }
     }
 

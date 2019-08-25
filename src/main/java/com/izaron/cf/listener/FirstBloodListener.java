@@ -37,9 +37,6 @@ public class FirstBloodListener extends AbstractContestListener {
                 .build();
 
         ContestStandings standings = apiMethods.getContestStandings(params);
-        if (standings == null) {
-            return;
-        }
 
         for (RanklistRow row : standings.getRows()) {
             if (haveSolvedTask(row)) {
