@@ -32,3 +32,8 @@ build/
 
 ### Logs ###
 logs/
+
+### Maven ###
+.mvn/wrapper/
+mvnw
+mvnw.cmd
