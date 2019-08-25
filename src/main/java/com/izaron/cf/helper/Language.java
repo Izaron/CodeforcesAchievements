@@ -19,7 +19,7 @@ public enum Language {
     CSHARP("C#", "Mono C#", "MS C#"),
     C("C", "GNU C", "GNU C11"),
     RUBY,
-    PHP,
+    PHP("PHP", "PHP"),
     HASKELL,
     FSHARP("F#", "F#"),
     SCALA,
@@ -57,7 +57,7 @@ public enum Language {
                 return language;
             }
         }
-        log.debug("Tried to detect an unknown language: 'name'");
+        log.debug("Tried to detect an unknown language: {}", name);
         return UNKNOWN;
     }
 
