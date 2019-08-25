@@ -426,7 +426,7 @@ class ApiMethodsTest {
 
         // Assert result
         List<Hack> hacks = methods.getContestHacks(-1L);
-        assertNull(hacks);
+        assertTrue(hacks.isEmpty());
     }
 
     @Test
@@ -441,7 +441,7 @@ class ApiMethodsTest {
 
         // Assert result
         List<Hack> hacks = methods.getContestHacks(566L);
-        assertNull(hacks);
+        assertTrue(hacks.isEmpty());
     }
 
     private String loadFile(String path) throws IOException {

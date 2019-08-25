@@ -23,8 +23,8 @@ class ApiConsumerTimerServiceTest {
                 .thenReturn("Mock Value!");
 
         // The program without limitations can easily return more than just 7 values in 150ms
-        // So we test that it won't have more than 7 returns in consecutive 150ms
-        int delayMs = 150;
+        // So we test that it won't have more than 7 returns in consecutive 500ms
+        int delayMs = 500;
         int permits = 7;
         int callCount = 120;
 
