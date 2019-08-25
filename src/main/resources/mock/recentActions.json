@@ -1,0 +1,726 @@
+{
+  "status": "OK",
+  "result": [
+    {
+      "timeSeconds": 1565462185,
+      "blogEntry": {
+        "originalLocale": "en",
+        "allowViewHistory": true,
+        "creationTimeSeconds": 1565450190,
+        "rating": -1,
+        "authorHandle": "infamouser",
+        "modificationTimeSeconds": 1565450190,
+        "id": 69013,
+        "title": "<p>A bug on contribution?</p>",
+        "locale": "en",
+        "tags": []
+      },
+      "comment": {
+        "id": 533937,
+        "creationTimeSeconds": 1565462185,
+        "commentatorHandle": "paper238498",
+        "locale": "en",
+        "text": "<div class=\"ttypography\"><p>as will this comment</p></div>",
+        "parentCommentId": 533891,
+        "rating": 0
+      }
+    },
+    {
+      "timeSeconds": 1565462185,
+      "blogEntry": {
+        "originalLocale": "en",
+        "allowViewHistory": true,
+        "creationTimeSeconds": 1565450190,
+        "rating": -1,
+        "authorHandle": "infamouser",
+        "modificationTimeSeconds": 1565450190,
+        "id": 69013,
+        "title": "<p>A bug on contribution?</p>",
+        "locale": "en",
+        "tags": []
+      }
+    },
+    {
+      "timeSeconds": 1565461736,
+      "blogEntry": {
+        "originalLocale": "en",
+        "allowViewHistory": true,
+        "creationTimeSeconds": 1565397311,
+        "rating": 5,
+        "authorHandle": "hmehta",
+        "modificationTimeSeconds": 1565397311,
+        "id": 69004,
+        "title": "<p>Topcoder SRM 764</p>",
+        "locale": "en",
+        "tags": [
+          "#topcoder",
+          "srm #764"
+        ]
+      },
+      "comment": {
+        "id": 533936,
+        "creationTimeSeconds": 1565461736,
+        "commentatorHandle": "Xellos",
+        "locale": "en",
+        "text": "<div class=\"ttypography\"><ol>   <li>My solution.</li> </ol><p>Look up &quot;four squares sum&quot;, find a theorem that it's possible to represent $$$N$$$ as a sum of 3 squares if $$$N = 4^a (8b+7)$$$. Ok, let's pick $$$w$$$ as large as possible such that $$$N-w^2$$$ satisfies this and bruteforce the rest. Most likely, $$$N-w^2$$$ is $$$O(\\sqrt{N})$$$, so it works.</p></div>",
+        "rating": 0
+      }
+    },
+    {
+      "timeSeconds": 1565461736,
+      "blogEntry": {
+        "originalLocale": "en",
+        "allowViewHistory": true,
+        "creationTimeSeconds": 1565397311,
+        "rating": 5,
+        "authorHandle": "hmehta",
+        "modificationTimeSeconds": 1565397311,
+        "id": 69004,
+        "title": "<p>Topcoder SRM 764</p>",
+        "locale": "en",
+        "tags": [
+          "#topcoder",
+          "srm #764"
+        ]
+      }
+    },
+    {
+      "timeSeconds": 1565461418,
+      "blogEntry": {
+        "originalLocale": "en",
+        "allowViewHistory": true,
+        "creationTimeSeconds": 1565397311,
+        "rating": 5,
+        "authorHandle": "hmehta",
+        "modificationTimeSeconds": 1565397311,
+        "id": 69004,
+        "title": "<p>Topcoder SRM 764</p>",
+        "locale": "en",
+        "tags": [
+          "#topcoder",
+          "srm #764"
+        ]
+      },
+      "comment": {
+        "id": 533935,
+        "creationTimeSeconds": 1565461418,
+        "commentatorHandle": "mkagenius",
+        "locale": "en",
+        "text": "<div class=\"ttypography\"><p>Even being blue it felt like a punishment to implement those silly paths. I can only imagine what reds must have felt.</p></div>",
+        "parentCommentId": 533922,
+        "rating": 0
+      }
+    },
+    {
+      "timeSeconds": 1565461334,
+      "blogEntry": {
+        "originalLocale": "en",
+        "allowViewHistory": true,
+        "creationTimeSeconds": 1564661445,
+        "rating": 121,
+        "authorHandle": "TozanSoutherpacks",
+        "modificationTimeSeconds": 1565455521,
+        "id": 68831,
+        "title": "<p>YouTube channel: Any requests for algorithm (contest technique) lectures?</p>",
+        "locale": "en",
+        "tags": [
+          "youtube",
+          "algorithm",
+          "lecture"
+        ]
+      },
+      "comment": {
+        "id": 533934,
+        "creationTimeSeconds": 1565461334,
+        "commentatorHandle": "pllk",
+        "locale": "en",
+        "text": "<div class=\"ttypography\"><p>Yes, the book and the problem set support each other, but they can also be used independently.</p></div>",
+        "parentCommentId": 533913,
+        "rating": 0
+      }
+    },
+    {
+      "timeSeconds": 1565461334,
+      "blogEntry": {
+        "originalLocale": "en",
+        "allowViewHistory": true,
+        "creationTimeSeconds": 1564661445,
+        "rating": 121,
+        "authorHandle": "TozanSoutherpacks",
+        "modificationTimeSeconds": 1565455521,
+        "id": 68831,
+        "title": "<p>YouTube channel: Any requests for algorithm (contest technique) lectures?</p>",
+        "locale": "en",
+        "tags": [
+          "youtube",
+          "algorithm",
+          "lecture"
+        ]
+      }
+    },
+    {
+      "timeSeconds": 1565461151,
+      "blogEntry": {
+        "originalLocale": "en",
+        "allowViewHistory": true,
+        "creationTimeSeconds": 1565375520,
+        "rating": 63,
+        "authorHandle": "chokudai",
+        "modificationTimeSeconds": 1565375520,
+        "id": 68998,
+        "title": "<p>AtCoder Beginner Contest 137 Announcement</p>",
+        "locale": "en",
+        "tags": []
+      },
+      "comment": {
+        "id": 533933,
+        "creationTimeSeconds": 1565461151,
+        "commentatorHandle": "SCoder",
+        "locale": "en",
+        "text": "<div class=\"ttypography\"><p>Thank you for the explanation, but what about the time complexity, N can go up to 1e5 and the same goes for M, with this solution we can easily reach 1e10 operations. Am I wrong ?</p></div>",
+        "parentCommentId": 533803,
+        "rating": 0
+      }
+    },
+    {
+      "timeSeconds": 1565461151,
+      "blogEntry": {
+        "originalLocale": "en",
+        "allowViewHistory": true,
+        "creationTimeSeconds": 1565375520,
+        "rating": 63,
+        "authorHandle": "chokudai",
+        "modificationTimeSeconds": 1565375520,
+        "id": 68998,
+        "title": "<p>AtCoder Beginner Contest 137 Announcement</p>",
+        "locale": "en",
+        "tags": []
+      }
+    },
+    {
+      "timeSeconds": 1565461093,
+      "blogEntry": {
+        "originalLocale": "en",
+        "allowViewHistory": true,
+        "creationTimeSeconds": 1565397311,
+        "rating": 5,
+        "authorHandle": "hmehta",
+        "modificationTimeSeconds": 1565397311,
+        "id": 69004,
+        "title": "<p>Topcoder SRM 764</p>",
+        "locale": "en",
+        "tags": [
+          "#topcoder",
+          "srm #764"
+        ]
+      },
+      "comment": {
+        "id": 533932,
+        "creationTimeSeconds": 1565461093,
+        "commentatorHandle": "boba5551",
+        "locale": "en",
+        "text": "<div class=\"ttypography\"><p>Thanks for contributing to the problem set, but for the future it would be good to take into account the feedback provided here.</p><p>First, &quot;not being totally bad&quot; is not the quality one should aim for. :)</p><p>Second, the other tasks that you did not mention bring certain frustration, which makes it hard to enjoy 300 and 500. In (such short) contests the psychological component of participants is quite important. Also, 300 is Googleable (I Googled mine). I do agree that 500 is a cute one (unfortunately, I got the intended idea only during the intermission). But, 1 (or potentially 2) nice tasks out of 5 does not seem to be a great tradeoff.</p><p>EDIT: To make more precise my comment about the psychological component: One of the main reasons why tasks are nice is because there is &quot;aha moment&quot; in the solution/idea. But if one sees three tasks where it certainly does not feel like there is any aha moment but rather the opposite, why one would expect the fourth task to be much different?</p></div>",
+        "parentCommentId": 533918,
+        "rating": 1
+      }
+    },
+    {
+      "timeSeconds": 1565460801,
+      "blogEntry": {
+        "originalLocale": "ru",
+        "allowViewHistory": true,
+        "creationTimeSeconds": 1565279514,
+        "rating": 171,
+        "authorHandle": "PikMike",
+        "modificationTimeSeconds": 1565280069,
+        "id": 68972,
+        "title": "<p>Educational Codeforces Round 70 Editorial</p>",
+        "locale": "en",
+        "tags": []
+      },
+      "comment": {
+        "id": 533931,
+        "creationTimeSeconds": 1565460801,
+        "commentatorHandle": "ATSTNG",
+        "locale": "en",
+        "text": "<div class=\"ttypography\"><p>Wow, that's really nice and elegant way to use D&amp;C here. Resulting in $$$O(log(N) \\cdot C)$$$, where $$$C$$$ is number of segments. </p><p>Thanks for sharing this!</p></div>",
+        "parentCommentId": 533763,
+        "rating": 0
+      }
+    },
+    {
+      "timeSeconds": 1565460801,
+      "blogEntry": {
+        "originalLocale": "ru",
+        "allowViewHistory": true,
+        "creationTimeSeconds": 1565279514,
+        "rating": 171,
+        "authorHandle": "PikMike",
+        "modificationTimeSeconds": 1565280069,
+        "id": 68972,
+        "title": "<p>Educational Codeforces Round 70 Editorial</p>",
+        "locale": "en",
+        "tags": []
+      }
+    },
+    {
+      "timeSeconds": 1565460738,
+      "blogEntry": {
+        "originalLocale": "en",
+        "allowViewHistory": true,
+        "creationTimeSeconds": 1565397311,
+        "rating": 5,
+        "authorHandle": "hmehta",
+        "modificationTimeSeconds": 1565397311,
+        "id": 69004,
+        "title": "<p>Topcoder SRM 764</p>",
+        "locale": "en",
+        "tags": [
+          "#topcoder",
+          "srm #764"
+        ]
+      },
+      "comment": {
+        "id": 533930,
+        "creationTimeSeconds": 1565460738,
+        "commentatorHandle": "Xellos",
+        "locale": "en",
+        "text": "<div class=\"ttypography\"><p>Yea that went as I expected.</p></div>",
+        "rating": 2
+      }
+    },
+    {
+      "timeSeconds": 1565460712,
+      "blogEntry": {
+        "originalLocale": "en",
+        "allowViewHistory": true,
+        "creationTimeSeconds": 1565397311,
+        "rating": 5,
+        "authorHandle": "hmehta",
+        "modificationTimeSeconds": 1565397311,
+        "id": 69004,
+        "title": "<p>Topcoder SRM 764</p>",
+        "locale": "en",
+        "tags": [
+          "#topcoder",
+          "srm #764"
+        ]
+      },
+      "comment": {
+        "id": 533929,
+        "creationTimeSeconds": 1565460712,
+        "commentatorHandle": "hmehta",
+        "locale": "en",
+        "text": "<div class=\"ttypography\"><p>Just a design concept right now! :) </p></div>",
+        "parentCommentId": 533908,
+        "rating": 0
+      }
+    },
+    {
+      "timeSeconds": 1565460490,
+      "blogEntry": {
+        "originalLocale": "ru",
+        "allowViewHistory": true,
+        "creationTimeSeconds": 1565279514,
+        "rating": 171,
+        "authorHandle": "PikMike",
+        "modificationTimeSeconds": 1565280069,
+        "id": 68972,
+        "title": "<p>Educational Codeforces Round 70 Editorial</p>",
+        "locale": "en",
+        "tags": []
+      },
+      "comment": {
+        "id": 533928,
+        "creationTimeSeconds": 1565460490,
+        "commentatorHandle": "ATSTNG",
+        "locale": "en",
+        "text": "<div class=\"ttypography\"><p>Intuitively, it feels that having a larger alphabet cannot make things worse in such constructive problems (constructing a string with given content and period).</p><p>We have a proof that we can always construct a string $$$S$$$ of form $$$(X+Y) \\cdot q + X$$$ (in other words period repeated $$$q$$$ times with some prefix of period at the end) which will have minimal period $$$(X+Y)$$$ where $$$X$$$ contains $$$cnt_{(X,a)}$$$ letters $$$a$$$ and $$$cnt_{(X,b)}$$$ letters $$$b$$$ and the same for $$$Y$$$. Violating limitation inequality for letter $$$a$$$ will result in making either $$$cnt_{(X,a)}$$$ or $$$cnt_{(Y,a)}$$$ negative, so it is always possible as long as these coefficient are non-negative and $$$(X+Y)$$$ contains both letters at least once. </p><p>Now, consider alphabet $$$\\alpha$$$ with $$$|\\alpha| &gt; 2$$$ and coefficients $$$cnt_{(X,e)}, cnt_{(Y,e)} \\geq 0$$$ for each $$$e \\in \\alpha$$$. We can just move to alphabet $$$[a, b]$$$ by dividing $$$\\alpha$$$ into two non-empty sets and mapping first set of letters to $$$a$$$ and second set to $$$b$$$. Get $$$cnt$$$-s for $$$a$$$ and $$$b$$$ by summarizing $$$cnt$$$-s of mapped letters, they will also be non-negative (as a sum of non-negative values). Find some $$$X$$$ and $$$Y$$$ in alphabet $$$[a, b]$$$. Then we can move back to $$$\\alpha$$$ replacing any $$$cnt_{(X,e)}$$$ letters $$$a$$$ in $$$X$$$ to letter $$$e$$$ for each $$$e$$$ that was mapped to $$$a$$$ (and doing the same for letter $$$b$$$ and for string $$$Y$$$). This wont break the period in $$$S$$$, because the letters from $$$\\alpha$$$ that were mapped to different letters will for sure be non-equal after moving back. Some of letters that were mapped to the same letter may become non-equal, but this will not break anything because each $$$S_i$$$ and $$$S_j$$$ that must be equal to match periods both will be equal to either some $$$X_k$$$ or $$$Y_k$$$, and character is always equal to itself.</p><p>I'm sure we can find a general proof without reduction to smaller alphabet, but I failed to find it in more or less elegant form without considering dozens of cases.</p></div>",
+        "parentCommentId": 533680,
+        "rating": 0
+      }
+    },
+    {
+      "timeSeconds": 1565460466,
+      "blogEntry": {
+        "originalLocale": "en",
+        "allowViewHistory": true,
+        "creationTimeSeconds": 1564661445,
+        "rating": 121,
+        "authorHandle": "TozanSoutherpacks",
+        "modificationTimeSeconds": 1565455521,
+        "id": 68831,
+        "title": "<p>YouTube channel: Any requests for algorithm (contest technique) lectures?</p>",
+        "locale": "en",
+        "tags": [
+          "youtube",
+          "algorithm",
+          "lecture"
+        ]
+      },
+      "comment": {
+        "id": 533927,
+        "creationTimeSeconds": 1565460466,
+        "commentatorHandle": "Um_nik",
+        "locale": "en",
+        "text": "<div class=\"ttypography\"><p>I haven't heard such words until red. How about learning how to solve easy problems before learning about FFT?</p></div>",
+        "parentCommentId": 531798,
+        "rating": 5
+      }
+    },
+    {
+      "timeSeconds": 1565460390,
+      "blogEntry": {
+        "originalLocale": "en",
+        "allowViewHistory": true,
+        "creationTimeSeconds": 1565397311,
+        "rating": 5,
+        "authorHandle": "hmehta",
+        "modificationTimeSeconds": 1565397311,
+        "id": 69004,
+        "title": "<p>Topcoder SRM 764</p>",
+        "locale": "en",
+        "tags": [
+          "#topcoder",
+          "srm #764"
+        ]
+      },
+      "comment": {
+        "id": 533926,
+        "creationTimeSeconds": 1565460390,
+        "commentatorHandle": "hmehta",
+        "locale": "en",
+        "text": "<div class=\"ttypography\"><p>With misof busy this week with IOI, we decided not to postpone and go with a simple experimental round with a mixed problem set. We were planning a round like this since long to see how it goes with combined divisions.</p><p>I cannot comment much on the side of the problems. However, we compiled a quick set to run some easier/traditional problems and kind of also announced that problems will be easier. (Probably should have mentioned the difficulty better). My Bad :( OR should have called it an experimental round.</p><p>As you know, good really-hard problems aren't easy to make and are only ever enjoyed by a few people, so it's often a limiting factor. </p><p>I will pass the feedback to the problem coordinator and will try to avoid implementation heavy problems. Also have more testers test and give feedback if we do something like this going forward.</p></div>",
+        "parentCommentId": 533919,
+        "rating": 3
+      }
+    },
+    {
+      "timeSeconds": 1565460246,
+      "blogEntry": {
+        "originalLocale": "en",
+        "allowViewHistory": true,
+        "creationTimeSeconds": 1565397311,
+        "rating": 5,
+        "authorHandle": "hmehta",
+        "modificationTimeSeconds": 1565397311,
+        "id": 69004,
+        "title": "<p>Topcoder SRM 764</p>",
+        "locale": "en",
+        "tags": [
+          "#topcoder",
+          "srm #764"
+        ]
+      },
+      "comment": {
+        "id": 533925,
+        "creationTimeSeconds": 1565460246,
+        "commentatorHandle": "Gassa",
+        "locale": "en",
+        "text": "<div class=\"ttypography\"><p>It was a fun experiment. Perhaps a couple more iterations, and collecting feedback from the community, can turn it into an actually viable format.</p><p>Personally, I'd like to see more ideas and less implementation in the problemset. The implementation-only problems, such as the third one, are irritating for most participants, so they don't go very well with the format where the timer is ticking only for opened problems.</p></div>",
+        "rating": 7
+      }
+    },
+    {
+      "timeSeconds": 1565460233,
+      "blogEntry": {
+        "originalLocale": "en",
+        "allowViewHistory": true,
+        "creationTimeSeconds": 1565397311,
+        "rating": 5,
+        "authorHandle": "hmehta",
+        "modificationTimeSeconds": 1565397311,
+        "id": 69004,
+        "title": "<p>Topcoder SRM 764</p>",
+        "locale": "en",
+        "tags": [
+          "#topcoder",
+          "srm #764"
+        ]
+      },
+      "comment": {
+        "id": 533924,
+        "creationTimeSeconds": 1565460233,
+        "commentatorHandle": "mathusalen",
+        "locale": "en",
+        "text": "<div class=\"ttypography\"><p>Seems to me that it is a slight variant of [Risk](<a>https://en.wikipedia.org/wiki/Risk_(game)</a>)</p></div>",
+        "parentCommentId": 533920,
+        "rating": 0
+      }
+    },
+    {
+      "timeSeconds": 1565459951,
+      "blogEntry": {
+        "originalLocale": "en",
+        "allowViewHistory": true,
+        "creationTimeSeconds": 1565397311,
+        "rating": 5,
+        "authorHandle": "hmehta",
+        "modificationTimeSeconds": 1565397311,
+        "id": 69004,
+        "title": "<p>Topcoder SRM 764</p>",
+        "locale": "en",
+        "tags": [
+          "#topcoder",
+          "srm #764"
+        ]
+      },
+      "comment": {
+        "id": 533923,
+        "creationTimeSeconds": 1565459951,
+        "commentatorHandle": "yosupo",
+        "locale": "en",
+        "text": "<div class=\"ttypography\"><p>I love 500pt problem. Why admin use this problem for such a contest?</p></div>",
+        "rating": 4
+      }
+    },
+    {
+      "timeSeconds": 1565459806,
+      "blogEntry": {
+        "originalLocale": "en",
+        "allowViewHistory": true,
+        "creationTimeSeconds": 1565397311,
+        "rating": 5,
+        "authorHandle": "hmehta",
+        "modificationTimeSeconds": 1565397311,
+        "id": 69004,
+        "title": "<p>Topcoder SRM 764</p>",
+        "locale": "en",
+        "tags": [
+          "#topcoder",
+          "srm #764"
+        ]
+      },
+      "comment": {
+        "id": 533922,
+        "creationTimeSeconds": 1565459806,
+        "commentatorHandle": "fruwajacybyk",
+        "locale": "en",
+        "text": "<div class=\"ttypography\"><p>Just a suggestion: consider creating div2 only srms. Like on cf, div2 only rounds. Because this was pointless. </p></div>",
+        "rating": 12
+      }
+    },
+    {
+      "timeSeconds": 1565459217,
+      "blogEntry": {
+        "originalLocale": "en",
+        "allowViewHistory": true,
+        "creationTimeSeconds": 1565397311,
+        "rating": 5,
+        "authorHandle": "hmehta",
+        "modificationTimeSeconds": 1565397311,
+        "id": 69004,
+        "title": "<p>Topcoder SRM 764</p>",
+        "locale": "en",
+        "tags": [
+          "#topcoder",
+          "srm #764"
+        ]
+      },
+      "comment": {
+        "id": 533921,
+        "creationTimeSeconds": 1565459217,
+        "commentatorHandle": "adamant",
+        "locale": "en",
+        "text": "<div class=\"ttypography\"><p>I think there were only two tasks with big amount of coding... Yep, the ones you mentioned.</p></div>",
+        "parentCommentId": 533914,
+        "rating": 8
+      }
+    },
+    {
+      "timeSeconds": 1565459189,
+      "blogEntry": {
+        "originalLocale": "en",
+        "allowViewHistory": true,
+        "creationTimeSeconds": 1565397311,
+        "rating": 5,
+        "authorHandle": "hmehta",
+        "modificationTimeSeconds": 1565397311,
+        "id": 69004,
+        "title": "<p>Topcoder SRM 764</p>",
+        "locale": "en",
+        "tags": [
+          "#topcoder",
+          "srm #764"
+        ]
+      },
+      "comment": {
+        "id": 533920,
+        "creationTimeSeconds": 1565459189,
+        "commentatorHandle": "Errichto",
+        "locale": "en",
+        "text": "<div class=\"ttypography\"><p>It's some board game where two players roll a die multiple times, I don't remember name though.</p></div>",
+        "parentCommentId": 533916,
+        "rating": 9
+      }
+    },
+    {
+      "timeSeconds": 1565459074,
+      "blogEntry": {
+        "originalLocale": "en",
+        "allowViewHistory": true,
+        "creationTimeSeconds": 1565397311,
+        "rating": 5,
+        "authorHandle": "hmehta",
+        "modificationTimeSeconds": 1565397311,
+        "id": 69004,
+        "title": "<p>Topcoder SRM 764</p>",
+        "locale": "en",
+        "tags": [
+          "#topcoder",
+          "srm #764"
+        ]
+      },
+      "comment": {
+        "id": 533918,
+        "creationTimeSeconds": 1565459074,
+        "commentatorHandle": "square1001",
+        "locale": "en",
+        "text": "<div class=\"ttypography\"><p><b>I don't think that this round was totally bad. I really liked 300-pts and 500-pts.</b> And also, 650-pts was <i>fair</i>.<br /> <br /> I recommended 300-pts because it is not easy to see that the simplest condition of being rectangular is that &quot;angle of four vertices are 90-degrees&quot;. Some submitted algorithm (judge if the opposite side vectors are same) failed in rhombus case.<br /> <br /> And for 500:</p> <div class=\"spoiler\"><b class=\"spoiler-title\">Spoiler</b><div class=\"spoiler-content\" style=\"display: none;\"><p>$$$a^2 + b^2 + c^2 + d^2 = (\\frac{a+b}{2})^2 + (\\frac{a-b}{2})^2 + (\\frac{c+d}{2})^2 + (\\frac{c-d}{2})^2$$$.</p></div></div></div>",
+        "rating": 2
+      }
+    },
+    {
+      "timeSeconds": 1565459074,
+      "blogEntry": {
+        "originalLocale": "en",
+        "allowViewHistory": true,
+        "creationTimeSeconds": 1565397311,
+        "rating": 5,
+        "authorHandle": "hmehta",
+        "modificationTimeSeconds": 1565397311,
+        "id": 69004,
+        "title": "<p>Topcoder SRM 764</p>",
+        "locale": "en",
+        "tags": [
+          "#topcoder",
+          "srm #764"
+        ]
+      },
+      "comment": {
+        "id": 533919,
+        "creationTimeSeconds": 1565459074,
+        "commentatorHandle": "gepardo",
+        "locale": "en",
+        "text": "<div class=\"ttypography\"><p>BTW, is the last problem inspired by a board game? Looking at the denominator in the probabilities (36, 216, 1296, 7776) it looks that the result of the attack if obtained by throwing from two to five dice.</p></div>",
+        "rating": 3
+      }
+    },
+    {
+      "timeSeconds": 1565459030,
+      "blogEntry": {
+        "originalLocale": "en",
+        "allowViewHistory": false,
+        "creationTimeSeconds": 1565406360,
+        "rating": 246,
+        "authorHandle": "djm03178",
+        "modificationTimeSeconds": 1565423246,
+        "id": 69006,
+        "title": "<p>Codeforces Round #578 (Div. 2)</p>",
+        "locale": "en",
+        "tags": []
+      },
+      "comment": {
+        "id": 533917,
+        "creationTimeSeconds": 1565459030,
+        "commentatorHandle": "saurabhsuniljain",
+        "locale": "en",
+        "text": "<div class=\"ttypography\"><p>I love Korean people.</p></div>",
+        "rating": 0
+      }
+    },
+    {
+      "timeSeconds": 1565459030,
+      "blogEntry": {
+        "originalLocale": "en",
+        "allowViewHistory": false,
+        "creationTimeSeconds": 1565406360,
+        "rating": 246,
+        "authorHandle": "djm03178",
+        "modificationTimeSeconds": 1565423246,
+        "id": 69006,
+        "title": "<p>Codeforces Round #578 (Div. 2)</p>",
+        "locale": "en",
+        "tags": []
+      }
+    },
+    {
+      "timeSeconds": 1565458977,
+      "blogEntry": {
+        "originalLocale": "en",
+        "allowViewHistory": true,
+        "creationTimeSeconds": 1565397311,
+        "rating": 5,
+        "authorHandle": "hmehta",
+        "modificationTimeSeconds": 1565397311,
+        "id": 69004,
+        "title": "<p>Topcoder SRM 764</p>",
+        "locale": "en",
+        "tags": [
+          "#topcoder",
+          "srm #764"
+        ]
+      },
+      "comment": {
+        "id": 533916,
+        "creationTimeSeconds": 1565458977,
+        "commentatorHandle": "V--gLaSsH0ldEr593--V",
+        "locale": "en",
+        "text": "<div class=\"ttypography\"><p>Are constants in last problem random or do they have some logic behind?</p></div>",
+        "rating": 15
+      }
+    },
+    {
+      "timeSeconds": 1565458916,
+      "blogEntry": {
+        "originalLocale": "en",
+        "allowViewHistory": true,
+        "creationTimeSeconds": 1565397311,
+        "rating": 5,
+        "authorHandle": "hmehta",
+        "modificationTimeSeconds": 1565397311,
+        "id": 69004,
+        "title": "<p>Topcoder SRM 764</p>",
+        "locale": "en",
+        "tags": [
+          "#topcoder",
+          "srm #764"
+        ]
+      },
+      "comment": {
+        "id": 533915,
+        "creationTimeSeconds": 1565458916,
+        "commentatorHandle": "flashmt",
+        "locale": "en",
+        "text": "<div class=\"ttypography\"><p>Just when you think SRMs can't get worse ¯\\_(ツ)_/¯</p></div>",
+        "rating": 25
+      }
+    },
+    {
+      "timeSeconds": 1565458793,
+      "blogEntry": {
+        "originalLocale": "en",
+        "allowViewHistory": true,
+        "creationTimeSeconds": 1565397311,
+        "rating": 5,
+        "authorHandle": "hmehta",
+        "modificationTimeSeconds": 1565397311,
+        "id": 69004,
+        "title": "<p>Topcoder SRM 764</p>",
+        "locale": "en",
+        "tags": [
+          "#topcoder",
+          "srm #764"
+        ]
+      },
+      "comment": {
+        "id": 533914,
+        "creationTimeSeconds": 1565458793,
+        "commentatorHandle": "gepardo",
+        "locale": "en",
+        "text": "<div class=\"ttypography\"><p>Giving five tasks with big amount of coding is not a good idea for a 75-minute contest. Especially the one with paths and the final DP with given table.</p></div>",
+        "rating": 16
+      }
+    }
+  ]
+}

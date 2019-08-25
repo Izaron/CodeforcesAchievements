@@ -1,0 +1,26 @@
+logging:
+  level:
+    org:
+      DEBUG
+
+spring:
+  profiles:
+    active: test
+
+  quartz:
+    job-store-type: memory
+
+  jpa.hibernate:
+    naming.physical-strategy: org.hibernate.boot.model.naming.PhysicalNamingStrategyStandardImpl
+    ddl-auto: update
+
+codeforces:
+  api:
+    base-url: http://codeforces.com/api/
+    delay: 1000
+    permits: 5
+    contest-status-count: 5000
+
+  achievements:
+    experienced-warrior-count: 25
+    thunderstorm-warrior-count: 100

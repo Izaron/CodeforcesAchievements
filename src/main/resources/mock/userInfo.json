@@ -1,0 +1,22 @@
+{
+  "status": "OK",
+  "result": [
+    {
+      "lastName": "Bird",
+      "country": "Russia",
+      "lastOnlineTimeSeconds": 1565542155,
+      "rating": 2176,
+      "friendOfCount": 75,
+      "titlePhoto": "//userpic.codeforces.com/158243/title/785267725bf7a67.jpg",
+      "handle": "Sehnsucht",
+      "avatar": "//userpic.codeforces.com/158243/avatar/a56b9356f696c982.jpg",
+      "firstName": "Mocking",
+      "contribution": 27,
+      "organization": "Moscow State University",
+      "rank": "master",
+      "maxRating": 2200,
+      "registrationTimeSeconds": 1391156733,
+      "maxRank": "master"
+    }
+  ]
+}

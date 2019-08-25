@@ -1,0 +1,361 @@
+{
+  "status": "OK",
+  "result": [
+    {
+      "id": 58533313,
+      "contestId": 566,
+      "creationTimeSeconds": 1565433543,
+      "relativeTimeSeconds": 2147483647,
+      "problem": {
+        "contestId": 566,
+        "index": "F",
+        "name": "Clique in the Divisibility Graph",
+        "type": "PROGRAMMING",
+        "points": 500,
+        "rating": 1600,
+        "tags": [
+          "dp",
+          "math",
+          "number theory"
+        ]
+      },
+      "author": {
+        "contestId": 566,
+        "members": [
+          {
+            "handle": "marsh_mellow"
+          }
+        ],
+        "participantType": "PRACTICE",
+        "ghost": false,
+        "startTimeSeconds": 1438273200
+      },
+      "programmingLanguage": "GNU C++14",
+      "verdict": "OK",
+      "testset": "TESTS",
+      "passedTestCount": 38,
+      "timeConsumedMillis": 857,
+      "memoryConsumedBytes": 23961600
+    },
+    {
+      "id": 58533258,
+      "contestId": 566,
+      "creationTimeSeconds": 1565433444,
+      "relativeTimeSeconds": 2147483647,
+      "problem": {
+        "contestId": 566,
+        "index": "F",
+        "name": "Clique in the Divisibility Graph",
+        "type": "PROGRAMMING",
+        "points": 500,
+        "rating": 1600,
+        "tags": [
+          "dp",
+          "math",
+          "number theory"
+        ]
+      },
+      "author": {
+        "contestId": 566,
+        "members": [
+          {
+            "handle": "marsh_mellow"
+          }
+        ],
+        "participantType": "PRACTICE",
+        "ghost": false,
+        "startTimeSeconds": 1438273200
+      },
+      "programmingLanguage": "GNU C++14",
+      "verdict": "TIME_LIMIT_EXCEEDED",
+      "testset": "TESTS",
+      "passedTestCount": 5,
+      "timeConsumedMillis": 1000,
+      "memoryConsumedBytes": 54681600
+    },
+    {
+      "id": 58533087,
+      "contestId": 566,
+      "creationTimeSeconds": 1565433110,
+      "relativeTimeSeconds": 2147483647,
+      "problem": {
+        "contestId": 566,
+        "index": "F",
+        "name": "Clique in the Divisibility Graph",
+        "type": "PROGRAMMING",
+        "points": 500,
+        "rating": 1600,
+        "tags": [
+          "dp",
+          "math",
+          "number theory"
+        ]
+      },
+      "author": {
+        "contestId": 566,
+        "members": [
+          {
+            "handle": "marsh_mellow"
+          }
+        ],
+        "participantType": "PRACTICE",
+        "ghost": false,
+        "startTimeSeconds": 1438273200
+      },
+      "programmingLanguage": "GNU C++14",
+      "verdict": "TIME_LIMIT_EXCEEDED",
+      "testset": "TESTS",
+      "passedTestCount": 5,
+      "timeConsumedMillis": 1000,
+      "memoryConsumedBytes": 54681600
+    },
+    {
+      "id": 58531057,
+      "contestId": 566,
+      "creationTimeSeconds": 1565429561,
+      "relativeTimeSeconds": 2147483647,
+      "problem": {
+        "contestId": 566,
+        "index": "F",
+        "name": "Clique in the Divisibility Graph",
+        "type": "PROGRAMMING",
+        "points": 500,
+        "rating": 1600,
+        "tags": [
+          "dp",
+          "math",
+          "number theory"
+        ]
+      },
+      "author": {
+        "contestId": 566,
+        "members": [
+          {
+            "handle": "dimapet"
+          }
+        ],
+        "participantType": "PRACTICE",
+        "ghost": false,
+        "startTimeSeconds": 1438273200
+      },
+      "programmingLanguage": "GNU C++14",
+      "verdict": "TIME_LIMIT_EXCEEDED",
+      "testset": "TESTS",
+      "passedTestCount": 5,
+      "timeConsumedMillis": 1000,
+      "memoryConsumedBytes": 7987200
+    },
+    {
+      "id": 58486023,
+      "contestId": 566,
+      "creationTimeSeconds": 1565336575,
+      "relativeTimeSeconds": 2147483647,
+      "problem": {
+        "contestId": 566,
+        "index": "D",
+        "name": "Restructuring Company",
+        "type": "PROGRAMMING",
+        "points": 1000,
+        "rating": 1900,
+        "tags": [
+          "data structures",
+          "dsu"
+        ]
+      },
+      "author": {
+        "contestId": 566,
+        "members": [
+          {
+            "handle": "Unconscious"
+          }
+        ],
+        "participantType": "PRACTICE",
+        "ghost": false,
+        "startTimeSeconds": 1438273200
+      },
+      "programmingLanguage": "GNU C++14",
+      "verdict": "OK",
+      "testset": "TESTS",
+      "passedTestCount": 48,
+      "timeConsumedMillis": 327,
+      "memoryConsumedBytes": 1638400
+    },
+    {
+      "id": 58485833,
+      "contestId": 566,
+      "creationTimeSeconds": 1565336319,
+      "relativeTimeSeconds": 2147483647,
+      "problem": {
+        "contestId": 566,
+        "index": "D",
+        "name": "Restructuring Company",
+        "type": "PROGRAMMING",
+        "points": 1000,
+        "rating": 1900,
+        "tags": [
+          "data structures",
+          "dsu"
+        ]
+      },
+      "author": {
+        "contestId": 566,
+        "members": [
+          {
+            "handle": "Unconscious"
+          }
+        ],
+        "participantType": "PRACTICE",
+        "ghost": false,
+        "startTimeSeconds": 1438273200
+      },
+      "programmingLanguage": "GNU C++14",
+      "verdict": "OK",
+      "testset": "TESTS",
+      "passedTestCount": 48,
+      "timeConsumedMillis": 296,
+      "memoryConsumedBytes": 1638400
+    },
+    {
+      "id": 58485288,
+      "contestId": 566,
+      "creationTimeSeconds": 1565335537,
+      "relativeTimeSeconds": 2147483647,
+      "problem": {
+        "contestId": 566,
+        "index": "D",
+        "name": "Restructuring Company",
+        "type": "PROGRAMMING",
+        "points": 1000,
+        "rating": 1900,
+        "tags": [
+          "data structures",
+          "dsu"
+        ]
+      },
+      "author": {
+        "contestId": 566,
+        "members": [
+          {
+            "handle": "Unconscious"
+          }
+        ],
+        "participantType": "PRACTICE",
+        "ghost": false,
+        "startTimeSeconds": 1438273200
+      },
+      "programmingLanguage": "GNU C++14",
+      "verdict": "WRONG_ANSWER",
+      "testset": "TESTS",
+      "passedTestCount": 3,
+      "timeConsumedMillis": 218,
+      "memoryConsumedBytes": 1638400
+    },
+    {
+      "id": 58484948,
+      "contestId": 566,
+      "creationTimeSeconds": 1565335018,
+      "relativeTimeSeconds": 2147483647,
+      "problem": {
+        "contestId": 566,
+        "index": "D",
+        "name": "Restructuring Company",
+        "type": "PROGRAMMING",
+        "points": 1000,
+        "rating": 1900,
+        "tags": [
+          "data structures",
+          "dsu"
+        ]
+      },
+      "author": {
+        "contestId": 566,
+        "members": [
+          {
+            "handle": "Unconscious"
+          }
+        ],
+        "participantType": "PRACTICE",
+        "ghost": false,
+        "startTimeSeconds": 1438273200
+      },
+      "programmingLanguage": "GNU C++14",
+      "verdict": "TIME_LIMIT_EXCEEDED",
+      "testset": "TESTS",
+      "passedTestCount": 2,
+      "timeConsumedMillis": 2000,
+      "memoryConsumedBytes": 1638400
+    },
+    {
+      "id": 58462507,
+      "contestId": 566,
+      "creationTimeSeconds": 1565284999,
+      "relativeTimeSeconds": 2147483647,
+      "problem": {
+        "contestId": 566,
+        "index": "F",
+        "name": "Clique in the Divisibility Graph",
+        "type": "PROGRAMMING",
+        "points": 500,
+        "rating": 1600,
+        "tags": [
+          "dp",
+          "math",
+          "number theory"
+        ]
+      },
+      "author": {
+        "contestId": 566,
+        "members": [
+          {
+            "handle": "Mohamad_AboDan"
+          }
+        ],
+        "participantType": "PRACTICE",
+        "ghost": false,
+        "startTimeSeconds": 1438273200
+      },
+      "programmingLanguage": "GNU C++11",
+      "verdict": "OK",
+      "testset": "TESTS",
+      "passedTestCount": 38,
+      "timeConsumedMillis": 218,
+      "memoryConsumedBytes": 17817600
+    },
+    {
+      "id": 58462260,
+      "contestId": 566,
+      "creationTimeSeconds": 1565284517,
+      "relativeTimeSeconds": 2147483647,
+      "problem": {
+        "contestId": 566,
+        "index": "F",
+        "name": "Clique in the Divisibility Graph",
+        "type": "PROGRAMMING",
+        "points": 500,
+        "rating": 1600,
+        "tags": [
+          "dp",
+          "math",
+          "number theory"
+        ]
+      },
+      "author": {
+        "contestId": 566,
+        "members": [
+          {
+            "handle": "Mohamad_AboDan"
+          }
+        ],
+        "participantType": "PRACTICE",
+        "ghost": false,
+        "startTimeSeconds": 1438273200
+      },
+      "programmingLanguage": "GNU C++11",
+      "verdict": "TIME_LIMIT_EXCEEDED",
+      "testset": "TESTS",
+      "passedTestCount": 5,
+      "timeConsumedMillis": 1000,
+      "memoryConsumedBytes": 17817600
+    }
+  ]
+}

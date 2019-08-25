@@ -1,0 +1,1076 @@
+{
+  "status": "OK",
+  "result": [
+    {
+      "contestId": 417,
+      "contestName": "RCC 2014 Warmup (Div. 2)",
+      "handle": "Sehnsucht",
+      "rank": 1266,
+      "ratingUpdateTimeSeconds": 1397756400,
+      "oldRating": 1500,
+      "newRating": 1413
+    },
+    {
+      "contestId": 412,
+      "contestName": "Coder-Strike 2014 - Раунд 1",
+      "handle": "Sehnsucht",
+      "rank": 350,
+      "ratingUpdateTimeSeconds": 1397844600,
+      "oldRating": 1413,
+      "newRating": 1455
+    },
+    {
+      "contestId": 426,
+      "contestName": "Codeforces Round #243 (Div. 2)",
+      "handle": "Sehnsucht",
+      "rank": 1367,
+      "ratingUpdateTimeSeconds": 1398619800,
+      "oldRating": 1455,
+      "newRating": 1365
+    },
+    {
+      "contestId": 427,
+      "contestName": "Codeforces Round #244 (Div. 2)",
+      "handle": "Sehnsucht",
+      "rank": 1530,
+      "ratingUpdateTimeSeconds": 1399051800,
+      "oldRating": 1365,
+      "newRating": 1287
+    },
+    {
+      "contestId": 431,
+      "contestName": "Codeforces Round #247 (Div. 2)",
+      "handle": "Sehnsucht",
+      "rank": 1517,
+      "ratingUpdateTimeSeconds": 1400693400,
+      "oldRating": 1287,
+      "newRating": 1224
+    },
+    {
+      "contestId": 441,
+      "contestName": "Codeforces Round #252 (Div. 2)",
+      "handle": "Sehnsucht",
+      "rank": 1092,
+      "ratingUpdateTimeSeconds": 1402248600,
+      "oldRating": 1224,
+      "newRating": 1239
+    },
+    {
+      "contestId": 451,
+      "contestName": "Codeforces Round #258 (Div. 2)",
+      "handle": "Sehnsucht",
+      "rank": 2404,
+      "ratingUpdateTimeSeconds": 1406223000,
+      "oldRating": 1239,
+      "newRating": 1156
+    },
+    {
+      "contestId": 452,
+      "contestName": "MemSQL Start[c]UP 2.0 - Round 1",
+      "handle": "Sehnsucht",
+      "rank": 995,
+      "ratingUpdateTimeSeconds": 1406489400,
+      "oldRating": 1156,
+      "newRating": 1340
+    },
+    {
+      "contestId": 454,
+      "contestName": "Codeforces Round #259 (Div. 2)",
+      "handle": "Sehnsucht",
+      "rank": 2296,
+      "ratingUpdateTimeSeconds": 1406914200,
+      "oldRating": 1340,
+      "newRating": 1246
+    },
+    {
+      "contestId": 456,
+      "contestName": "Codeforces Round #260 (Div. 2)",
+      "handle": "Sehnsucht",
+      "rank": 1288,
+      "ratingUpdateTimeSeconds": 1407519000,
+      "oldRating": 1246,
+      "newRating": 1321
+    },
+    {
+      "contestId": 458,
+      "contestName": "MemSQL Start[c]UP 2.0 - Round 2 - Онлайн трансляция",
+      "handle": "Sehnsucht",
+      "rank": 572,
+      "ratingUpdateTimeSeconds": 1407700800,
+      "oldRating": 1321,
+      "newRating": 1310
+    },
+    {
+      "contestId": 459,
+      "contestName": "Codeforces Round #261 (Div. 2)",
+      "handle": "Sehnsucht",
+      "rank": 517,
+      "ratingUpdateTimeSeconds": 1408123800,
+      "oldRating": 1310,
+      "newRating": 1553
+    },
+    {
+      "contestId": 460,
+      "contestName": "Codeforces Round #262 (Div. 2)",
+      "handle": "Sehnsucht",
+      "rank": 173,
+      "ratingUpdateTimeSeconds": 1408555800,
+      "oldRating": 1553,
+      "newRating": 1707
+    },
+    {
+      "contestId": 461,
+      "contestName": "Codeforces Round #263 (Div. 1)",
+      "handle": "Sehnsucht",
+      "rank": 496,
+      "ratingUpdateTimeSeconds": 1409068800,
+      "oldRating": 1707,
+      "newRating": 1759
+    },
+    {
+      "contestId": 475,
+      "contestName": "Bayan 2015 Contest Warm Up",
+      "handle": "Sehnsucht",
+      "rank": 1632,
+      "ratingUpdateTimeSeconds": 1412524800,
+      "oldRating": 1759,
+      "newRating": 1641
+    },
+    {
+      "contestId": 474,
+      "contestName": "Codeforces Round #271 (Div. 2)",
+      "handle": "Sehnsucht",
+      "rank": 691,
+      "ratingUpdateTimeSeconds": 1412618400,
+      "oldRating": 1641,
+      "newRating": 1567
+    },
+    {
+      "contestId": 478,
+      "contestName": "Codeforces Round #273 (Div. 2)",
+      "handle": "Sehnsucht",
+      "rank": 2503,
+      "ratingUpdateTimeSeconds": 1413481200,
+      "oldRating": 1567,
+      "newRating": 1466
+    },
+    {
+      "contestId": 479,
+      "contestName": "Codeforces Round #274 (Div. 2)",
+      "handle": "Sehnsucht",
+      "rank": 459,
+      "ratingUpdateTimeSeconds": 1413716400,
+      "oldRating": 1466,
+      "newRating": 1568
+    },
+    {
+      "contestId": 486,
+      "contestName": "Codeforces Round #277 (Div. 2)",
+      "handle": "Sehnsucht",
+      "rank": 1816,
+      "ratingUpdateTimeSeconds": 1415725200,
+      "oldRating": 1568,
+      "newRating": 1467
+    },
+    {
+      "contestId": 489,
+      "contestName": "Codeforces Round #277.5 (Div. 2)",
+      "handle": "Sehnsucht",
+      "rank": 1293,
+      "ratingUpdateTimeSeconds": 1416247500,
+      "oldRating": 1467,
+      "newRating": 1396
+    },
+    {
+      "contestId": 488,
+      "contestName": "Codeforces Round #278 (Div. 2)",
+      "handle": "Sehnsucht",
+      "rank": 1675,
+      "ratingUpdateTimeSeconds": 1416597600,
+      "oldRating": 1396,
+      "newRating": 1291
+    },
+    {
+      "contestId": 490,
+      "contestName": "Codeforces Round #279 (Div. 2)",
+      "handle": "Sehnsucht",
+      "rank": 915,
+      "ratingUpdateTimeSeconds": 1416742800,
+      "oldRating": 1291,
+      "newRating": 1357
+    },
+    {
+      "contestId": 493,
+      "contestName": "Codeforces Round #281 (Div. 2)",
+      "handle": "Sehnsucht",
+      "rank": 12,
+      "ratingUpdateTimeSeconds": 1417626000,
+      "oldRating": 1357,
+      "newRating": 1643
+    },
+    {
+      "contestId": 495,
+      "contestName": "Codeforces Round #282 (Div. 2)",
+      "handle": "Sehnsucht",
+      "rank": 143,
+      "ratingUpdateTimeSeconds": 1418495400,
+      "oldRating": 1643,
+      "newRating": 1704
+    },
+    {
+      "contestId": 497,
+      "contestName": "Codeforces Round #283 (Div. 1)",
+      "handle": "Sehnsucht",
+      "rank": 899,
+      "ratingUpdateTimeSeconds": 1418841000,
+      "oldRating": 1704,
+      "newRating": 1625
+    },
+    {
+      "contestId": 499,
+      "contestName": "Codeforces Round #284 (Div. 2)",
+      "handle": "Sehnsucht",
+      "rank": 16,
+      "ratingUpdateTimeSeconds": 1419445800,
+      "oldRating": 1625,
+      "newRating": 1769
+    },
+    {
+      "contestId": 500,
+      "contestName": "Good Bye 2014",
+      "handle": "Sehnsucht",
+      "rank": 2406,
+      "ratingUpdateTimeSeconds": 1419960600,
+      "oldRating": 1769,
+      "newRating": 1636
+    },
+    {
+      "contestId": 507,
+      "contestName": "Codeforces Round #287 (Div. 2)",
+      "handle": "Sehnsucht",
+      "rank": 1331,
+      "ratingUpdateTimeSeconds": 1422036000,
+      "oldRating": 1636,
+      "newRating": 1535
+    },
+    {
+      "contestId": 508,
+      "contestName": "Codeforces Round #288 (Div. 2)",
+      "handle": "Sehnsucht",
+      "rank": 1666,
+      "ratingUpdateTimeSeconds": 1422383400,
+      "oldRating": 1535,
+      "newRating": 1434
+    },
+    {
+      "contestId": 509,
+      "contestName": "Codeforces Round #289 (Div. 2, ACM ICPC Rules)",
+      "handle": "Sehnsucht",
+      "rank": 1165,
+      "ratingUpdateTimeSeconds": 1422716400,
+      "oldRating": 1434,
+      "newRating": 1380
+    },
+    {
+      "contestId": 514,
+      "contestName": "Codeforces Round #291 (Div. 2)",
+      "handle": "Sehnsucht",
+      "rank": 1116,
+      "ratingUpdateTimeSeconds": 1423938600,
+      "oldRating": 1380,
+      "newRating": 1398
+    },
+    {
+      "contestId": 515,
+      "contestName": "Codeforces Round #292 (Div. 2)",
+      "handle": "Sehnsucht",
+      "rank": 378,
+      "ratingUpdateTimeSeconds": 1424198100,
+      "oldRating": 1398,
+      "newRating": 1573
+    },
+    {
+      "contestId": 518,
+      "contestName": "Codeforces Round #293 (Div. 2)",
+      "handle": "Sehnsucht",
+      "rank": 9,
+      "ratingUpdateTimeSeconds": 1424804400,
+      "oldRating": 1573,
+      "newRating": 1741
+    },
+    {
+      "contestId": 524,
+      "contestName": "VK Cup 2015 - Раунд 1",
+      "handle": "Sehnsucht",
+      "rank": 648,
+      "ratingUpdateTimeSeconds": 1426953600,
+      "oldRating": 1741,
+      "newRating": 1664
+    },
+    {
+      "contestId": 525,
+      "contestName": "Codeforces Round #297 (Div. 2)",
+      "handle": "Sehnsucht",
+      "rank": 505,
+      "ratingUpdateTimeSeconds": 1427394600,
+      "oldRating": 1664,
+      "newRating": 1617
+    },
+    {
+      "contestId": 534,
+      "contestName": "Codeforces Round #298 (Div. 2)",
+      "handle": "Sehnsucht",
+      "rank": 277,
+      "ratingUpdateTimeSeconds": 1428863400,
+      "oldRating": 1617,
+      "newRating": 1664
+    },
+    {
+      "contestId": 535,
+      "contestName": "Codeforces Round #299 (Div. 2)",
+      "handle": "Sehnsucht",
+      "rank": 391,
+      "ratingUpdateTimeSeconds": 1429036500,
+      "oldRating": 1664,
+      "newRating": 1627
+    },
+    {
+      "contestId": 532,
+      "contestName": "VK Cup 2015 - Раунд 2",
+      "handle": "Sehnsucht",
+      "rank": 338,
+      "ratingUpdateTimeSeconds": 1429295400,
+      "oldRating": 1627,
+      "newRating": 1613
+    },
+    {
+      "contestId": 538,
+      "contestName": "Codeforces Round #300",
+      "handle": "Sehnsucht",
+      "rank": 948,
+      "ratingUpdateTimeSeconds": 1430073000,
+      "oldRating": 1613,
+      "newRating": 1725
+    },
+    {
+      "contestId": 542,
+      "contestName": "VK Cup 2015 - Раунд 3 (неофиц. интернет-трансляция, только Div. 1)",
+      "handle": "Sehnsucht",
+      "rank": 242,
+      "ratingUpdateTimeSeconds": 1430677800,
+      "oldRating": 1725,
+      "newRating": 1699
+    },
+    {
+      "contestId": 544,
+      "contestName": "Codeforces Round #302 (Div. 2)",
+      "handle": "Sehnsucht",
+      "rank": 454,
+      "ratingUpdateTimeSeconds": 1431023400,
+      "oldRating": 1699,
+      "newRating": 1627
+    },
+    {
+      "contestId": 545,
+      "contestName": "Codeforces Round #303 (Div. 2)",
+      "handle": "Sehnsucht",
+      "rank": 119,
+      "ratingUpdateTimeSeconds": 1432060200,
+      "oldRating": 1627,
+      "newRating": 1725
+    },
+    {
+      "contestId": 555,
+      "contestName": "Codeforces Round #310 (Div. 1)",
+      "handle": "Sehnsucht",
+      "rank": 757,
+      "ratingUpdateTimeSeconds": 1435421400,
+      "oldRating": 1725,
+      "newRating": 1708
+    },
+    {
+      "contestId": 559,
+      "contestName": "Codeforces Round #313 (Div. 1)",
+      "handle": "Sehnsucht",
+      "rank": 773,
+      "ratingUpdateTimeSeconds": 1437580800,
+      "oldRating": 1708,
+      "newRating": 1697
+    },
+    {
+      "contestId": 566,
+      "contestName": "VK Cup 2015 - Финал (интернет-трансляция)",
+      "handle": "Sehnsucht",
+      "rank": 425,
+      "ratingUpdateTimeSeconds": 1438284000,
+      "oldRating": 1697,
+      "newRating": 1633
+    },
+    {
+      "contestId": 567,
+      "contestName": "Codeforces Round #Pi (Div. 2)",
+      "handle": "Sehnsucht",
+      "rank": 15,
+      "ratingUpdateTimeSeconds": 1438799400,
+      "oldRating": 1633,
+      "newRating": 1744
+    },
+    {
+      "contestId": 568,
+      "contestName": "Codeforces Round #315 (Div. 1)",
+      "handle": "Sehnsucht",
+      "rank": 816,
+      "ratingUpdateTimeSeconds": 1439231400,
+      "oldRating": 1744,
+      "newRating": 1662
+    },
+    {
+      "contestId": 570,
+      "contestName": "Codeforces Round #316 (Div. 2)",
+      "handle": "Sehnsucht",
+      "rank": 902,
+      "ratingUpdateTimeSeconds": 1439490600,
+      "oldRating": 1662,
+      "newRating": 1595
+    },
+    {
+      "contestId": 572,
+      "contestName": "Codeforces Round #317 [AimFund Thanks-Round] (Div. 2)",
+      "handle": "Sehnsucht",
+      "rank": 1156,
+      "ratingUpdateTimeSeconds": 1440268200,
+      "oldRating": 1595,
+      "newRating": 1521
+    },
+    {
+      "contestId": 574,
+      "contestName": "Codeforces Round #318 [RussianCodeCup Thanks-Round] (Div. 2)",
+      "handle": "Sehnsucht",
+      "rank": 4,
+      "ratingUpdateTimeSeconds": 1440873600,
+      "oldRating": 1521,
+      "newRating": 1721
+    },
+    {
+      "contestId": 576,
+      "contestName": "Codeforces Round #319 (Div. 1)",
+      "handle": "Sehnsucht",
+      "rank": 435,
+      "ratingUpdateTimeSeconds": 1441910400,
+      "oldRating": 1721,
+      "newRating": 1805
+    },
+    {
+      "contestId": 578,
+      "contestName": "Codeforces Round #320 (Div. 1) [Bayan Thanks-Round]",
+      "handle": "Sehnsucht",
+      "rank": 182,
+      "ratingUpdateTimeSeconds": 1442425500,
+      "oldRating": 1805,
+      "newRating": 1987
+    },
+    {
+      "contestId": 582,
+      "contestName": "Codeforces Round #323 (Div. 1)",
+      "handle": "Sehnsucht",
+      "rank": 434,
+      "ratingUpdateTimeSeconds": 1443897900,
+      "oldRating": 1987,
+      "newRating": 1923
+    },
+    {
+      "contestId": 587,
+      "contestName": "Codeforces Round #326 (Div. 1)",
+      "handle": "Sehnsucht",
+      "rank": 293,
+      "ratingUpdateTimeSeconds": 1444935600,
+      "oldRating": 1923,
+      "newRating": 1921
+    },
+    {
+      "contestId": 605,
+      "contestName": "Codeforces Round #335 (Div. 1)",
+      "handle": "Sehnsucht",
+      "rank": 423,
+      "ratingUpdateTimeSeconds": 1449684300,
+      "oldRating": 1921,
+      "newRating": 1826
+    },
+    {
+      "contestId": 608,
+      "contestName": "Codeforces Round #336 (Div. 2)",
+      "handle": "Sehnsucht",
+      "rank": 44,
+      "ratingUpdateTimeSeconds": 1450895700,
+      "oldRating": 1826,
+      "newRating": 1937
+    },
+    {
+      "contestId": 611,
+      "contestName": "Good Bye 2015",
+      "handle": "Sehnsucht",
+      "rank": 570,
+      "ratingUpdateTimeSeconds": 1451498700,
+      "oldRating": 1937,
+      "newRating": 1957
+    },
+    {
+      "contestId": 613,
+      "contestName": "Codeforces Round #339 (Div. 1)",
+      "handle": "Sehnsucht",
+      "rank": 188,
+      "ratingUpdateTimeSeconds": 1452796500,
+      "oldRating": 1957,
+      "newRating": 2005
+    },
+    {
+      "contestId": 626,
+      "contestName": "8VC Venture Cup 2016 - Elimination Round",
+      "handle": "Sehnsucht",
+      "rank": 1452,
+      "ratingUpdateTimeSeconds": 1455393900,
+      "oldRating": 2005,
+      "newRating": 1891
+    },
+    {
+      "contestId": 629,
+      "contestName": "Codeforces Round #343 (Div. 2)",
+      "handle": "Sehnsucht",
+      "rank": 319,
+      "ratingUpdateTimeSeconds": 1455993300,
+      "oldRating": 1891,
+      "newRating": 1873
+    },
+    {
+      "contestId": 633,
+      "contestName": "Manthan, Codefest 16",
+      "handle": "Sehnsucht",
+      "rank": 97,
+      "ratingUpdateTimeSeconds": 1456515900,
+      "oldRating": 1873,
+      "newRating": 2012
+    },
+    {
+      "contestId": 645,
+      "contestName": "Чемпионат КРОК 2016 - Отборочный Раунд",
+      "handle": "Sehnsucht",
+      "rank": 171,
+      "ratingUpdateTimeSeconds": 1458326100,
+      "oldRating": 2012,
+      "newRating": 2033
+    },
+    {
+      "contestId": 653,
+      "contestName": "IndiaHacks 2016 - Online Edition (Div. 1 + Div. 2)",
+      "handle": "Sehnsucht",
+      "rank": 192,
+      "ratingUpdateTimeSeconds": 1458383700,
+      "oldRating": 2033,
+      "newRating": 2066
+    },
+    {
+      "contestId": 639,
+      "contestName": "VK Cup 2016 - Раунд 1",
+      "handle": "Sehnsucht",
+      "rank": 609,
+      "ratingUpdateTimeSeconds": 1459190100,
+      "oldRating": 2066,
+      "newRating": 1955
+    },
+    {
+      "contestId": 666,
+      "contestName": "Codeforces Round #349 (Div. 1)",
+      "handle": "Sehnsucht",
+      "rank": 261,
+      "ratingUpdateTimeSeconds": 1461954900,
+      "oldRating": 1955,
+      "newRating": 1935
+    },
+    {
+      "contestId": 674,
+      "contestName": "Codeforces Round #351 (VK Cup 2016 Round 3, Div. 1 Edition)",
+      "handle": "Sehnsucht",
+      "rank": 227,
+      "ratingUpdateTimeSeconds": 1462644300,
+      "oldRating": 1935,
+      "newRating": 1926
+    },
+    {
+      "contestId": 671,
+      "contestName": "Codeforces Round #352 (Div. 1)",
+      "handle": "Sehnsucht",
+      "rank": 246,
+      "ratingUpdateTimeSeconds": 1462991700,
+      "oldRating": 1926,
+      "newRating": 1952
+    },
+    {
+      "contestId": 679,
+      "contestName": "Codeforces Round #356 (Div. 1)",
+      "handle": "Sehnsucht",
+      "rank": 535,
+      "ratingUpdateTimeSeconds": 1465410900,
+      "oldRating": 1952,
+      "newRating": 1871
+    },
+    {
+      "contestId": 681,
+      "contestName": "Codeforces Round #357 (Div. 2)",
+      "handle": "Sehnsucht",
+      "rank": 18,
+      "ratingUpdateTimeSeconds": 1465929300,
+      "oldRating": 1871,
+      "newRating": 2004
+    },
+    {
+      "contestId": 685,
+      "contestName": "Codeforces Round #359 (Div. 1)",
+      "handle": "Sehnsucht",
+      "rank": 393,
+      "ratingUpdateTimeSeconds": 1466706900,
+      "oldRating": 2004,
+      "newRating": 1946
+    },
+    {
+      "contestId": 687,
+      "contestName": "Codeforces Round #360 (Div. 1)",
+      "handle": "Sehnsucht",
+      "rank": 262,
+      "ratingUpdateTimeSeconds": 1467227100,
+      "oldRating": 1946,
+      "newRating": 1975
+    },
+    {
+      "contestId": 696,
+      "contestName": "Codeforces Round #362 (Div. 1)",
+      "handle": "Sehnsucht",
+      "rank": 452,
+      "ratingUpdateTimeSeconds": 1468522200,
+      "oldRating": 1975,
+      "newRating": 1905
+    },
+    {
+      "contestId": 698,
+      "contestName": "Codeforces Round #363 (Div. 1)",
+      "handle": "Sehnsucht",
+      "rank": 481,
+      "ratingUpdateTimeSeconds": 1468941600,
+      "oldRating": 1905,
+      "newRating": 1854
+    },
+    {
+      "contestId": 701,
+      "contestName": "Codeforces Round #364 (Div. 2)",
+      "handle": "Sehnsucht",
+      "rank": 19,
+      "ratingUpdateTimeSeconds": 1469212500,
+      "oldRating": 1854,
+      "newRating": 2003
+    },
+    {
+      "contestId": 708,
+      "contestName": "AIM Tech Round 3 (Div. 1)",
+      "handle": "Sehnsucht",
+      "rank": 437,
+      "ratingUpdateTimeSeconds": 1472063700,
+      "oldRating": 2003,
+      "newRating": 1962
+    },
+    {
+      "contestId": 713,
+      "contestName": "Codeforces Round #371 (Div. 1)",
+      "handle": "Sehnsucht",
+      "rank": 160,
+      "ratingUpdateTimeSeconds": 1473791700,
+      "oldRating": 1962,
+      "newRating": 2048
+    },
+    {
+      "contestId": 715,
+      "contestName": "Codeforces Round #372 (Div. 1)",
+      "handle": "Sehnsucht",
+      "rank": 346,
+      "ratingUpdateTimeSeconds": 1474127100,
+      "oldRating": 2048,
+      "newRating": 2016
+    },
+    {
+      "contestId": 722,
+      "contestName": "Intel Code Challenge Elimination Round (Div. 1 + Div. 2, combined)",
+      "handle": "Sehnsucht",
+      "rank": 331,
+      "ratingUpdateTimeSeconds": 1475337900,
+      "oldRating": 2016,
+      "newRating": 2052
+    },
+    {
+      "contestId": 724,
+      "contestName": "Intel Code Challenge Final Round (Div. 1 + Div. 2, Combined)",
+      "handle": "Sehnsucht",
+      "rank": 144,
+      "ratingUpdateTimeSeconds": 1475939700,
+      "oldRating": 2052,
+      "newRating": 2129
+    },
+    {
+      "contestId": 727,
+      "contestName": "Технокубок 2017 - Отборочный Раунд 1",
+      "handle": "Sehnsucht",
+      "rank": 8,
+      "ratingUpdateTimeSeconds": 1476529500,
+      "oldRating": 2129,
+      "newRating": 2192
+    },
+    {
+      "contestId": 725,
+      "contestName": "Canada Cup 2016",
+      "handle": "Sehnsucht",
+      "rank": 251,
+      "ratingUpdateTimeSeconds": 1477157700,
+      "oldRating": 2192,
+      "newRating": 2197
+    },
+    {
+      "contestId": 744,
+      "contestName": "Codeforces Round #385 (Div. 1)",
+      "handle": "Sehnsucht",
+      "rank": 451,
+      "ratingUpdateTimeSeconds": 1481999700,
+      "oldRating": 2197,
+      "newRating": 2107
+    },
+    {
+      "contestId": 750,
+      "contestName": "Good Bye 2016",
+      "handle": "Sehnsucht",
+      "rank": 1631,
+      "ratingUpdateTimeSeconds": 1483116300,
+      "oldRating": 2107,
+      "newRating": 2022
+    },
+    {
+      "contestId": 781,
+      "contestName": "Codeforces Round #403 (Div. 1, по мотивам финала Технокубка 2017)",
+      "handle": "Sehnsucht",
+      "rank": 274,
+      "ratingUpdateTimeSeconds": 1488726300,
+      "oldRating": 2022,
+      "newRating": 2019
+    },
+    {
+      "contestId": 771,
+      "contestName": "VK Cup 2017 - Раунд 1",
+      "handle": "Sehnsucht",
+      "rank": 202,
+      "ratingUpdateTimeSeconds": 1489858500,
+      "oldRating": 2019,
+      "newRating": 1991
+    },
+    {
+      "contestId": 772,
+      "contestName": "VK Cup 2017 - Раунд 2",
+      "handle": "Sehnsucht",
+      "rank": 28,
+      "ratingUpdateTimeSeconds": 1492364100,
+      "oldRating": 1991,
+      "newRating": 2090
+    },
+    {
+      "contestId": 793,
+      "contestName": "Tinkoff Challenge - Elimination Round",
+      "handle": "Sehnsucht",
+      "rank": 444,
+      "ratingUpdateTimeSeconds": 1492973100,
+      "oldRating": 2090,
+      "newRating": 2062
+    },
+    {
+      "contestId": 804,
+      "contestName": "Codeforces Round #411 (Div. 1)",
+      "handle": "Sehnsucht",
+      "rank": 526,
+      "ratingUpdateTimeSeconds": 1493916600,
+      "oldRating": 2062,
+      "newRating": 1975
+    },
+    {
+      "contestId": 773,
+      "contestName": "VK Cup 2017 - Раунд 3",
+      "handle": "Sehnsucht",
+      "rank": 89,
+      "ratingUpdateTimeSeconds": 1494182700,
+      "oldRating": 1975,
+      "newRating": 1899
+    },
+    {
+      "contestId": 799,
+      "contestName": "Playrix Codescapes Cup (Codeforces Round #413, рейтинговый, Div. 1 + Div. 2)",
+      "handle": "Sehnsucht",
+      "rank": 2841,
+      "ratingUpdateTimeSeconds": 1494524100,
+      "oldRating": 1899,
+      "newRating": 1719
+    },
+    {
+      "contestId": 794,
+      "contestName": "Tinkoff Challenge - Финал (Codeforces Round #414, рейтинговый, Div. 1 + Div. 2)",
+      "handle": "Sehnsucht",
+      "rank": 789,
+      "ratingUpdateTimeSeconds": 1494675300,
+      "oldRating": 1719,
+      "newRating": 1715
+    },
+    {
+      "contestId": 810,
+      "contestName": "Codeforces Round #415 (Div. 2)",
+      "handle": "Sehnsucht",
+      "rank": 64,
+      "ratingUpdateTimeSeconds": 1495310700,
+      "oldRating": 1715,
+      "newRating": 1821
+    },
+    {
+      "contestId": 814,
+      "contestName": "Codeforces Round #418 (Div. 2)",
+      "handle": "Sehnsucht",
+      "rank": 151,
+      "ratingUpdateTimeSeconds": 1496844900,
+      "oldRating": 1821,
+      "newRating": 1869
+    },
+    {
+      "contestId": 831,
+      "contestName": "Codeforces Round #424 (Div. 2, рейтинговый, основан на Финале VK Cup)",
+      "handle": "Sehnsucht",
+      "rank": 69,
+      "ratingUpdateTimeSeconds": 1499965500,
+      "oldRating": 1869,
+      "newRating": 1942
+    },
+    {
+      "contestId": 859,
+      "contestName": "MemSQL Start[c]UP 3.0 - Round 1",
+      "handle": "Sehnsucht",
+      "rank": 224,
+      "ratingUpdateTimeSeconds": 1505592300,
+      "oldRating": 1942,
+      "newRating": 2007
+    },
+    {
+      "contestId": 855,
+      "contestName": "Manthan, Codefest 17",
+      "handle": "Sehnsucht",
+      "rank": 1621,
+      "ratingUpdateTimeSeconds": 1506272700,
+      "oldRating": 2007,
+      "newRating": 1872
+    },
+    {
+      "contestId": 866,
+      "contestName": "MemSQL Start[c]UP 3.0 - Round 2 and Codeforces Round #437 (Div. 1)",
+      "handle": "Sehnsucht",
+      "rank": 411,
+      "ratingUpdateTimeSeconds": 1506801900,
+      "oldRating": 1872,
+      "newRating": 1798
+    },
+    {
+      "contestId": 897,
+      "contestName": "Codeforces Round #449 (Div. 2)",
+      "handle": "Sehnsucht",
+      "rank": 2496,
+      "ratingUpdateTimeSeconds": 1512231600,
+      "oldRating": 1798,
+      "newRating": 1738
+    },
+    {
+      "contestId": 909,
+      "contestName": "Codeforces Round #455 (Div. 2)",
+      "handle": "Sehnsucht",
+      "rank": 15,
+      "ratingUpdateTimeSeconds": 1514399700,
+      "oldRating": 1738,
+      "newRating": 1931
+    },
+    {
+      "contestId": 908,
+      "contestName": "Good Bye 2017",
+      "handle": "Sehnsucht",
+      "rank": 728,
+      "ratingUpdateTimeSeconds": 1514571000,
+      "oldRating": 1931,
+      "newRating": 1948
+    },
+    {
+      "contestId": 913,
+      "contestName": "Hello 2018",
+      "handle": "Sehnsucht",
+      "rank": 295,
+      "ratingUpdateTimeSeconds": 1515431700,
+      "oldRating": 1948,
+      "newRating": 2024
+    },
+    {
+      "contestId": 914,
+      "contestName": "Codecraft-18 and Codeforces Round #458 (Div. 1 + Div. 2, combined)",
+      "handle": "Sehnsucht",
+      "rank": 1598,
+      "ratingUpdateTimeSeconds": 1516473300,
+      "oldRating": 2024,
+      "newRating": 1922
+    },
+    {
+      "contestId": 930,
+      "contestName": "Codeforces Round #468 (Div. 1, основан на Финальном раунде Технокубка 2018)",
+      "handle": "Sehnsucht",
+      "rank": 203,
+      "ratingUpdateTimeSeconds": 1520184900,
+      "oldRating": 1922,
+      "newRating": 1978
+    },
+    {
+      "contestId": 923,
+      "contestName": "VK Cup 2018 - Раунд 1",
+      "handle": "Sehnsucht",
+      "rank": 123,
+      "ratingUpdateTimeSeconds": 1520703300,
+      "oldRating": 1978,
+      "newRating": 2031
+    },
+    {
+      "contestId": 924,
+      "contestName": "VK Cup 2018 - Раунд 2",
+      "handle": "Sehnsucht",
+      "rank": 28,
+      "ratingUpdateTimeSeconds": 1521913800,
+      "oldRating": 2031,
+      "newRating": 2169
+    },
+    {
+      "contestId": 960,
+      "contestName": "Divide by Zero 2018 and Codeforces Round #474 (Div. 1 + Div. 2, combined)",
+      "handle": "Sehnsucht",
+      "rank": 177,
+      "ratingUpdateTimeSeconds": 1523126100,
+      "oldRating": 2169,
+      "newRating": 2192
+    },
+    {
+      "contestId": 925,
+      "contestName": "VK Cup 2018 - Раунд 3",
+      "handle": "Sehnsucht",
+      "rank": 57,
+      "ratingUpdateTimeSeconds": 1525016700,
+      "oldRating": 2192,
+      "newRating": 2169
+    },
+    {
+      "contestId": 981,
+      "contestName": "Avito Code Challenge 2018",
+      "handle": "Sehnsucht",
+      "rank": 329,
+      "ratingUpdateTimeSeconds": 1527443400,
+      "oldRating": 2169,
+      "newRating": 2149
+    },
+    {
+      "contestId": 1010,
+      "contestName": "Codeforces Round #499 (Div. 1)",
+      "handle": "Sehnsucht",
+      "rank": 529,
+      "ratingUpdateTimeSeconds": 1532624700,
+      "oldRating": 2149,
+      "newRating": 2059
+    },
+    {
+      "contestId": 1012,
+      "contestName": "Codeforces Round #500 (Div. 1) [по мотивам EJOI]",
+      "handle": "Sehnsucht",
+      "rank": 172,
+      "ratingUpdateTimeSeconds": 1532947500,
+      "oldRating": 2059,
+      "newRating": 2096
+    },
+    {
+      "contestId": 1028,
+      "contestName": "AIM Tech Round 5 (rated, Div. 1 + Div. 2)",
+      "handle": "Sehnsucht",
+      "rank": 371,
+      "ratingUpdateTimeSeconds": 1535395800,
+      "oldRating": 2096,
+      "newRating": 2096
+    },
+    {
+      "contestId": 1043,
+      "contestName": "Codeforces Round #519 by Botan Investments",
+      "handle": "Sehnsucht",
+      "rank": 216,
+      "ratingUpdateTimeSeconds": 1540748100,
+      "oldRating": 2096,
+      "newRating": 2154
+    },
+    {
+      "contestId": 1161,
+      "contestName": "Codeforces Round #557 (Div. 1) [based on Forethought Future Cup - Final Round]",
+      "handle": "Sehnsucht",
+      "rank": 274,
+      "ratingUpdateTimeSeconds": 1556996700,
+      "oldRating": 2154,
+      "newRating": 2112
+    },
+    {
+      "contestId": 1158,
+      "contestName": "Codeforces Round #559 (Div. 1)",
+      "handle": "Sehnsucht",
+      "rank": 92,
+      "ratingUpdateTimeSeconds": 1557678900,
+      "oldRating": 2112,
+      "newRating": 2200
+    },
+    {
+      "contestId": 1168,
+      "contestName": "Codeforces Round #562 (Div. 1)",
+      "handle": "Sehnsucht",
+      "rank": 366,
+      "ratingUpdateTimeSeconds": 1558892100,
+      "oldRating": 2200,
+      "newRating": 2121
+    },
+    {
+      "contestId": 1172,
+      "contestName": "Codeforces Round #564 (Div. 1)",
+      "handle": "Sehnsucht",
+      "rank": 133,
+      "ratingUpdateTimeSeconds": 1559916300,
+      "oldRating": 2121,
+      "newRating": 2190
+    },
+    {
+      "contestId": 1179,
+      "contestName": "Codeforces Round #569 (Div. 1)",
+      "handle": "Sehnsucht",
+      "rank": 212,
+      "ratingUpdateTimeSeconds": 1561143900,
+      "oldRating": 2190,
+      "newRating": 2185
+    },
+    {
+      "contestId": 1178,
+      "contestName": "Codeforces Global Round 4",
+      "handle": "Sehnsucht",
+      "rank": 1149,
+      "ratingUpdateTimeSeconds": 1563645900,
+      "oldRating": 2185,
+      "newRating": 2093
+    },
+    {
+      "contestId": 1201,
+      "contestName": "Codeforces Round #577 (Div. 2)",
+      "handle": "Sehnsucht",
+      "rank": 37,
+      "ratingUpdateTimeSeconds": 1564943700,
+      "oldRating": 2093,
+      "newRating": 2176
+    }
+  ]
+}

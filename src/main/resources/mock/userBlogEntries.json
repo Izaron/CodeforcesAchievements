@@ -1,0 +1,74 @@
+{
+  "status": "OK",
+  "result": [
+    {
+      "originalLocale": "ru",
+      "allowViewHistory": false,
+      "creationTimeSeconds": 1466671184,
+      "rating": 6,
+      "authorHandle": "Sehnsucht",
+      "modificationTimeSeconds": 1466672698,
+      "id": 45612,
+      "title": "<p>Это не те блогпосты, которые вы ищете</p>",
+      "locale": "ru",
+      "tags": [
+        "скандалы",
+        "интриги",
+        "расследования"
+      ]
+    },
+    {
+      "originalLocale": "ru",
+      "allowViewHistory": false,
+      "creationTimeSeconds": 1465119128,
+      "rating": 89,
+      "authorHandle": "Sehnsucht",
+      "modificationTimeSeconds": 1465569316,
+      "id": 45246,
+      "title": "<p>Java Algorithms for Android [version 1.1]</p>",
+      "locale": "en",
+      "tags": [
+        "android",
+        "java",
+        "algorithms",
+        "android app"
+      ]
+    },
+    {
+      "originalLocale": "ru",
+      "allowViewHistory": false,
+      "creationTimeSeconds": 1443200726,
+      "rating": 184,
+      "authorHandle": "Sehnsucht",
+      "modificationTimeSeconds": 1443355511,
+      "id": 20525,
+      "title": "<p>Statistics of programming languages in Codeforces</p>",
+      "locale": "en",
+      "tags": []
+    },
+    {
+      "originalLocale": "ru",
+      "allowViewHistory": true,
+      "creationTimeSeconds": 1435498592,
+      "rating": 13,
+      "authorHandle": "Sehnsucht",
+      "modificationTimeSeconds": 1435498592,
+      "id": 18933,
+      "title": "<p>Определение отрезка, в котором содержится точка</p>",
+      "locale": "ru",
+      "tags": []
+    },
+    {
+      "originalLocale": "ru",
+      "allowViewHistory": false,
+      "creationTimeSeconds": 1433424424,
+      "rating": 8,
+      "authorHandle": "Sehnsucht",
+      "modificationTimeSeconds": 1433433625,
+      "id": 18320,
+      "title": "<p>Аномалия в &quot;запуске&quot; Codeforces</p>",
+      "locale": "ru",
+      "tags": []
+    }
+  ]
+}
